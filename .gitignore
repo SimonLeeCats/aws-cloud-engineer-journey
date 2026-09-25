@@ -1,5 +1,6 @@
 *.pem
 .env
+.env*
 .terraform/
 *.tfstate*
 .venv/
